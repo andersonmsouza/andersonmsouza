@@ -30,4 +30,4 @@ Atualmente aprofundando conhecimentos em:
 ---
 
 ### 📫 Contato
-- LinkedIn: (adicione o link depois)
+- LinkedIn: www.linkedin.com/in/andersonmendessouza
