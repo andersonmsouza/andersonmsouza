@@ -8,8 +8,9 @@ Gosto de transformar problemas reais em código simples, organizado e funcional.
 ### 🛠️ Tecnologias
 - Python
 - Git & GitHub
-- SQL (em aprendizado)
-- Análise de Dados (Pandas)
+- SQL
+- Análise de Dados (Pandas, Numpy, Streamlit, Matplotlib)
+- N8N
 
 ---
 
