@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Anderson
 
-<!--
-**andersonmsouza/andersonmsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor focado em **Python**, com interesse em **dados, automação e soluções práticas**.  
+Gosto de transformar problemas reais em código simples, organizado e funcional.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+- Python
+- Git & GitHub
+- SQL (em aprendizado)
+- Análise de Dados (Pandas)
+
+---
+
+### 📌 O que você vai encontrar aqui
+- Projetos práticos em Python
+- Exercícios de aprendizado bem organizados
+- Código com foco em clareza e boas práticas
+
+---
+
+### 🚀 Em evolução
+Atualmente aprofundando conhecimentos em:
+- Python aplicado a dados
+- Automação de tarefas
+- Estruturação de projetos
+
+---
+
+### 📫 Contato
+- LinkedIn: (adicione o link depois)
